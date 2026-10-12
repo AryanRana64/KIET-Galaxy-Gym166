@@ -30,7 +30,7 @@ To develop a professional web application representing a campus gym facility ("K
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/kiet-galaxy-gym.git
+   https://github.com/AryanRana64/KIET-Galaxy-Gym166
    ```
 2. **Navigate to Project Directory:**
    ```bash
@@ -42,11 +42,10 @@ To develop a professional web application representing a campus gym facility ("K
 ---
 
 ## 🌐 Deployed Website
-- **Live URL:** [View Deployed Website on Vercel](https://your-vercel-deployment-link.vercel.app) *(Update with your actual Vercel link)*
-
+- **Live URL:** https://kietgym12-xni2.vercel.app/
 ---
 
 ## 👥 Author
-- **Student Name:** [Your Name]
-- **Roll Number / Section:** [Your Roll No/Section]
+- **Student Name:** Aryan Rana
+- **Roll Number / Section:** [2630btech2121 / AIML-B]
 - **Institution:** KIET Group of Institutions
